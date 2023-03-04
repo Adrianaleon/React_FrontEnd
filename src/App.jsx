@@ -1,10 +1,10 @@
 import "./App.css";
-import Form from "./Form/Form";
+import Select from "./Select/select";
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      <Select/>
     </div>
   );
 }
