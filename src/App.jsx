@@ -1,5 +1,5 @@
 import "./App.css";
-import Select from "./Select/select";
+import Select from "./Select/Select";
 
 function App() {
   return (
